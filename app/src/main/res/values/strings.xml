@@ -1,0 +1,105 @@
+<resources>
+    <string name="app_name">AplikasiResep</string>
+    <string-array name="resep">
+        <item>Nasi Goreng\n</item>
+        <item>Mie Goreng\n</item>
+        <item>Kwetiaw\n</item>
+        <item>Mie Ayam\n</item>
+    </string-array>
+    <string-array name="desc">
+        <item>Nasi goreng adalah sebuah hidangan nasi yang telah digoreng dalam sebuah wajan atau penggorengan dan biasanya dicampur dengan bahan-bahan lainnya.</item>
+        <item>Mi goreng berarti "mi yang digoreng" adalah makanan yang populer dan digemari di Indonesia.</item>
+        <item>Kwetiau goreng adalah kwetiau yang disajikan tanpa kuah. Kuah pada jenis kwetiau ini dibiarkan meresap ke dalam mie dan bahan-bahan lain yang digunakan. </item>
+        <item>Mi ayam atau bakmi ayam adalah masakan Indonesia yang terbuat dari mi kuning direbus mendidih kemudian ditaburi saos kecap khusus beserta daging ayam dan sayuran. </item>
+    </string-array>
+    <string-array name="bahan">
+        <item>  Bahan-bahan yang diperlukan:\n
+
+                1. 2 porsi nasi putih\n
+                2. 2 butir telur ayam, dikocok\n
+                3. Minyak goreng untuk menumis\n
+
+
+                Bumbu nasi goreng (dihaluskan) :\n
+
+                4. 5 buah cabe merah\n
+                5. 3 siung bawang merah\n
+                6. 4 siung bawang putih.\n
+        </item>
+        <item>
+                Bahan : \n
+                1. 250 g mie telur kering\n
+                2. daging ayam, potong dadu\n
+                3. 50 g udang, bersihkan\n
+                4. 3 sdm minyak untuk menumis\n
+                5. butir telur, kocok lepas\n
+                6. 50 g kol, iris tipis\n
+                7. 50 g wortel, iris bentuk korek api\n
+                8. batang daun bawang, iris tipis\n
+                9. 1 sdm kecap asin\n
+                10. 2 sdm kecap manis\n
+        </item>
+        <item>
+                Bahan : \n
+                1. 100 gram daging ayam \n
+                2. 1 butir telur, kocok \n
+                3. 2 buah baso sapi, potong-potong \n
+                4. 1 buah kekian, potong-potong \n
+                5. 300 gram kwetiaw \n
+                6. 50 gram taoge \n
+                7. 6 butir bawang merah, iris tipis \n
+                8. 3 siung bawang putih, cincang halus \n
+                9. garam sesuai selera \n
+                10. sdt merica \n
+
+        </item>
+        <item>
+                Bahan : \n
+                1. 100 gram daging ayam \n
+                2. Sawi \n
+                3. 300 gram Mie kuning \n
+                4. 50 gram taoge \n
+                5. 6 butir bawang merah, iris tipis \n
+                6. 3 siung bawang putih, cincang halus \n
+                7. garam sesuai selera \n
+                8. sdt merica \n
+        </item>
+    </string-array>
+    <string-array name="cara">
+        <item>
+                Cara Memasak : \n
+                1. Panaskan wajan dengan minyak secukupnya, masukkan telur yang sudah dikocok, tunggu setengah matang selanjutnya masukkan bumbu yang telah dihaluskan. Aduk hingga keluar aromanya.\n
+                2. Masukkan nasi putih, garam, penyedap dan kecap secukupnya. Aduk hingga semua tercampur dan merata. Nah saat mengaduk ini besarkan apinya (hasilnya akan lebih enak). Setelah dirasa semua bumbu sudah merata, Angkat\n
+                3. Sajikan di piring, bila perlu tambahkan lagi telur ceplok atau telur dadar (extra)\n
+                4. Untuk penyajiannya jangan lupa kerupuk dan irisan timun/acar agar lebih menarik tampilannya serta lebih enak.\n
+        </item>
+        <item>  Cara Memasak : \n
+                1. Seduh mie dengan air panas sampai mengembang, tiriskan. Potong daging ayam seukuran dadu, dan bersihkan udang.\n
+                2. Panaskan minyak, tumis bumbu halus sampai harum dan matang. Masukkan daging ayam dan udang, aduk hingga berubah warna. Tambahkan kol, wortel, daun bawang. Aduk rata.\n
+                3. Masukkan mie, kecap asin, dan kecap manis. Aduk dan masak hingga mie dan bumbu tercampur rata. Angkat. Taburi dengan bawang merah. Sajikan.\n
+        </item>
+        <item>
+                Cara Memasak : \n
+                1. Tumis bawang putih dan bawang merah hingga harum lalu masukkan daging ayam, masak hingga matang kemudian masukkan telur, aduk sebentar lalu masukkan baso sapi, kekian, aduk sebentar. Tambahkan saos tiram, kecap, garam, gula dan merica. Aduk sampai rata dan tuang sedikit air putih.\n
+                2. Masukan kwetiaw dan taoge, aduk hingga matang. Masukkan irisan daun bawang, aduk. Masukkan minyak wijen, aduk sebentar. Angkat dan sajikan dengan taburan bawang goreng.\n
+
+        </item>
+        <item>
+                Cara Memasak : \n
+                1. Masukkan mie telor / mie basah ke dalam air mendidih, masukkan juga irisan daun caisim dan juga bisa ditambahkan dengan kecambah secukupnya.\n
+                2. Sementara siapkan mangkok sajian,  lantas tambahkan kira kira 2 sendok minyak ayam dan penyedap rasa secukupnya.\n
+                3. Masukkan mie yang telah matang kedalam mangkok sajian, perlu diketahui bahwa merebus mie ayam cukup sebentar saja.\n
+                4. Tambahkan masakan ayam dan tambah dengan siraman air kaldu dan daun bawang secukupnya.\n
+                5. Tambahkan saus sambal. Jika masih kurang pedas bisa tambah sedikit sambal balado.\n
+                6. Mie ayam spesial komplit siap dinikmati.\n
+        </item>
+    </string-array>
+    <string-array name="title">
+        <item>Cara 1</item>
+        <item>Cara 2</item>
+        <item>Cara 3 </item>
+        <item>Cara 4 </item>
+    </string-array>
+
+
+</resources>
